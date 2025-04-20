@@ -10,4 +10,5 @@
         <maven.compiler.target>18</maven.compiler.target>
         <exec.mainClass>finalproject.finalproject.FinalProject</exec.mainClass>
     </properties>
+    <name>BirdGame</name>
 </project>
